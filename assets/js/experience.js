@@ -38,7 +38,7 @@ const exp = [
     cardImage: "assets/images/experience-page/google.png",
     place: "Google- GSOC",
     time: "(Jan, 20 - Apr, 20)",
-    desp: "<li>The research focused on studying the impact of mobile frameworks on application quality and developers perspectives, uncovering challenges and solutions in this area.</li><li></li>",
+    desp: "<li>The research focused on studying the impact of mobile frameworks on application quality and developers perspectives, uncovering challenges and solutions in this area.</li>",
   },
 ];
 
