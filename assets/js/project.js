@@ -6,7 +6,7 @@ const projectcards = document.querySelector(".projectcards");
 // Array of object for projects
 const projects = [
   {
-    title: "Playlist Genie- Music recommended system based on facial recognition emotion ",
+    title: "Playlist Genie  ",
     cardImage: "assets/images/project-page/playlist.png",
     description: "Music recommended system based on facial recognition emotion.",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
