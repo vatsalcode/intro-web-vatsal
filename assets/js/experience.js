@@ -9,14 +9,14 @@ const exp = [
     cardImage: "assets/images/experience-page/hiro_lab.png",
     place: "HIRO (Human Interaction & Robotics Group)",
     time: "(May, 2023 - present)",
-    desp: "<li>Working on robotic manipulation and remote sensing skills using a hybrid approach of ML and traditional motion planning techniques in C++, achieving human-level dexterity in nonprehensile skills like tilting and tossing.</li> <li>Made changes in the current progressive web app of Flipkart to react to different actions performed on AMP page.</li> <li>Improved efficiency of robotic systems by 30% through the integration of skills into complex, affordance-informed task planning and manipulation algorithms, resulting in reduced errors and increased productivity.</li>",
+    desp: "<li>Working on robotic manipulation and remote sensing skills using a hybrid approach of ML and traditional motion planning techniques in C++, achieving human-level dexterity in nonprehensile skills like tilting and tossing.</li> <li>Improved efficiency of robotic systems by 30% through the integration of skills into complex, affordance-informed task planning and manipulation algorithms, resulting in reduced errors and increased productivity.</li>",
   },
   {
     title: "Software Developer Intern",
     cardImage: "assets/images/experience-page/ridecell.png",
     place: "Ridecell, San Francisco",
     time: "(Jan, 22 - Aug, 22)",
-    desp: "<li>Deployed a state-of-the-art machine learning model for a search application using techniques like reinforcement learning and bandits, resulting in a 75% improvement in search relevance and a 60% increase in user engagement.</li>Integrated a feature-rich Visual Alert Display into FleetOps’ web application using Django & REST, MongoDB & BigQuery, Sumo-Logic, and Kubernetes for efficient data storage, logging, monitoring, and deployment resulting in 20% improved operational efficiency.<li></li>",
+    desp: "<li>Deployed a state-of-the-art machine learning model for a search application using techniques like reinforcement learning and bandits, resulting in a 75% improvement in search relevance and a 60% increase in user engagement.</li><li>Integrated a feature-rich Visual Alert Display into FleetOps web application using Django & REST, MongoDB & BigQuery, Sumo-Logic, and Kubernetes for efficient data storage, logging, monitoring, and deployment resulting in 20% improved operational efficiency.</li>",
   },
   {
     title: "Visiting Researcher",
