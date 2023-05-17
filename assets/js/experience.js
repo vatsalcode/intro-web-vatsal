@@ -5,6 +5,13 @@ AOS.init();
 const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
+    title: "Machine Learning Researcher",
+    cardImage: "assets/images/experience-page/nasa.jpeg",
+    place: "NASA JPL - GeneLab ",
+    time: "(May, 2023 - Aug, 2023)",
+    desp: "<li>Will be working with Prof Babs & Prof S J Hook and collaborating with a cross-institutional team (University of Colorado, Stanford, NASA) on data modeling and data integration, multi-scale databases, representations of uncertainty, and cartographic information design. </li><li>This is funded by NSF to develop an integrated data framework to study spatiotemporal patterns and relationships, and to adapt existing analytic methods to work within that framework.</li>",
+  },
+  {
     title: "Gradute Student Researcher",
     cardImage: "assets/images/experience-page/hiro_lab.png",
     place: "HIRO (Human Interaction & Robotics Group)",
